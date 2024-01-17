@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1705470153419,
+      "tag": "0000_adorable_ken_ellis",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1705470662927,
+      "tag": "0001_big_true_believers",
+      "breakpoints": true
+    }
+  ]
+}
